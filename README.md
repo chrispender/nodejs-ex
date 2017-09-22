@@ -1,4 +1,4 @@
-
+﻿
 
 <!-- toc -->
 
@@ -23,7 +23,7 @@
   * [Web UI](#web-ui)
   * [Looking for help](#looking-for-help)
   * [Compatibility](#compatibility)
-  * [License](#license)
+  * [Licence](#licence)
 
 <!-- tocstop -->
 
